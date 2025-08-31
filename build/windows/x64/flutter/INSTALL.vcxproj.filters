@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\alper\OneDrive\Masaüstü\yeni proje 1\build\windows\x64\CMakeFiles\dca976031d537bc539e1c280eef87f72\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F45F019E-D4E9-3BDF-90D6-18E5CF7F68B8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

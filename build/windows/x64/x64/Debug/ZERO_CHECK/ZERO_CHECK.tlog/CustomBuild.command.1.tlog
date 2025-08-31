@@ -1,0 +1,10 @@
+^C:\USERS\ALPER\ONEDRIVE\MASAÜSTÜ\YENI PROJE 1\BUILD\WINDOWS\X64\CMAKEFILES\5673A7094E3A97CE8585ACC3AD28E258\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/alper/OneDrive/Masaüstü/yeni proje 1/windows" "-BC:/Users/alper/OneDrive/Masaüstü/yeni proje 1/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/alper/OneDrive/Masaüstü/yeni proje 1/build/windows/x64/trivia_app.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

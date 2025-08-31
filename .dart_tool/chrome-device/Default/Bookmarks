@@ -1,0 +1,40 @@
+{
+   "checksum": "20c46df3fc04d6c647d93031d59ec320",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13401060856185252",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Sık kullanılanlar çubuğu",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13401060856185252",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Diğer sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13401060856185252",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil sık kullanılanlar",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CkEKHgiIgQISCBffwfyYAQAAKg4QABgBIAAoBjAAOABAABIAKhhxU0xTNG85Z0IxTnBEOW5hZVN3YkhnPT1IA6AGDBKOAQgBEokBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9EiRlODI3MGJjMi1jZTgwLTU3MDUtYTgyMi0xYWU5ZmI0MjM4YmUYACAAKAAwo6P9+70xOPyl/fu9MUD8pf37vTFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAwj4CYAASjgEIAhKJAQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkOTgwM2RjMmMtMTFmNy01ZjU3LWI4ZWEtZTIzNzYxMDhjYWRlGAAgACgAMKSj/fu9MTiipv37vTFAoqb9+70xShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAAMI+AmAAEo4BCAMSiQEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGFkMGI3ODhiLWJiZWYtNTA4Yi05YjE5LTRlMTljNWMwNjk2OBgAIAAoADCoo/37vTE46ab9+70xQOmm/fu9MUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAADCPgJgADAAOAA=",
+   "version": 1
+}
